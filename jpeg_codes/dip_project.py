@@ -49,9 +49,6 @@ def merge_blocks(blocks, image_shape, block_size=8):
             idx += 1
     return image
 
-    import heapq
-from collections import defaultdict, Counter
-
 class HuffmanNode:
     def __init__(self, value=None, frequency=0, left=None, right=None):
         self.value = value
@@ -158,7 +155,7 @@ def jpeg_decompression_grayscale(quantized_blocks, quant_matrix, original_shape)
     
     return np.clip(decompressed_image, 0, 255).astype(np.uint8)
 
-image = cv2.imread('kodim02.png', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('kodim10.png', cv2.IMREAD_GRAYSCALE)
 
 quantized_blocks, quant_matrix, original_shape = jpeg_compression_grayscale(image, quality_factor=50)
 
@@ -166,7 +163,11 @@ encoded_data, codebook = huffman_encode(quantized_blocks)
 
 rle_encoded_blocks = rle_encode(quantized_blocks)
 
+# decoded_blocks = huffman_decode(encoded_data, codebook, original_shape)
+
+print(len(encoded_data))
 print(len(image))
+print(rle_encoded_blocks[0])
 print(len(rle_encoded_blocks))
 
 rle_decoded_blocks = rle_decode(rle_encoded_blocks)
