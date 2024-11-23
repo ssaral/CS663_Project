@@ -1,0 +1,111 @@
+********************************************************************************************************************************************************
+Analysis of Image: kodim14.png
+======================================================================
+For Quality Factor: 10
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 27.43 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 14.00
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf10.png
+======================================================================
+For Quality Factor: 20
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 44.25 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 8.68
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf20.png
+======================================================================
+For Quality Factor: 30
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 56.21 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 6.83
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf30.png
+======================================================================
+For Quality Factor: 40
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 66.26 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 5.80
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf40.png
+======================================================================
+For Quality Factor: 50
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 74.45 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 5.16
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf50.png
+======================================================================
+For Quality Factor: 60
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 85.51 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 4.49
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf60.png
+======================================================================
+For Quality Factor: 70
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 99.74 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 3.85
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf70.png
+======================================================================
+For Quality Factor: 80
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 124.63 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 3.08
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf80.png
+======================================================================
+For Quality Factor: 90
+Original Image Size: 384.00 KB
+DCT Coefficients Size: 1536.00 KB
+Quantized Coefficients Size: 768.00 KB
+Encoded Data Size: 176.80 KB
+
+Compression Ratios:
+Original to DCT Ratio: 0.25
+Original to Quantized Ratio: 0.50
+Original to Encoded Ratio: 2.17
+Reconstructed image saved as /home/ssaral/Downloads/CS663_Project/compressed_with_rle/reconstruct_img_rle_14_qf90.png
+
